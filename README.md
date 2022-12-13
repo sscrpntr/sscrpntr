@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sscrpntr&label=Profile%20views&color=0e75b6&style=flat" alt="sscrpntr" /> </p>
 
-- 🔭 I’m currently working on [Where2Work](www.where2work.es)
+- 🔭 I’m currently working on [Where2Work](https://www.where2work.es)
 
 - 🌱 I’m currently learning **Ruby on Rails, ReactJs**
 
