@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails, ReactJs**
 
-- 👯 I’m looking to collaborate on **Any project related with business, cycling or car industry**
+- 👯 I’m looking to collaborate on **any project related with business, cycling, or automotive industry**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sscrpntr](https://github.com/sscrpntr)
 
