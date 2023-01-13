@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergi Escarpenter</h1>
-<h3 align="center">A passionate Full-Stack developer from Barcelona</h3>
+<h3 align="center">A coffee-fueled-by Full-Stack developer from Barcelona</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sscrpntr&label=Profile%20views&color=0e75b6&style=flat" alt="sscrpntr" /> </p>
 
