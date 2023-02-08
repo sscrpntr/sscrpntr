@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on own projects :)
 
-- 🌱 I’m currently learning **Ruby on Rails, ReactJs**
+- 🌱 I’m currently learning **Ruby on Rails & Tailwind CSS**
 
 - 👯 I’m looking to collaborate on **any project related with business, cycling, or automotive industry**
 
