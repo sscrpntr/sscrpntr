@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sergi Escarpenter</h1>
-<h3 align="center">A coffee fueled Full-Stack developer from Barcelona</h3>
+<h1 align="center">Hi 👋, I'm Sergi!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sscrpntr&label=Profile%20views&color=0e75b6&style=flat" alt="sscrpntr" /> </p>
 
 - 🔭 I’m currently working on own projects :)
 
-- 🌱 I’m currently learning **Ruby on Rails & Tailwind CSS**
+- 🌱 I’m currently learning about life (:
 
-- 👯 I’m looking to collaborate on **any project related with business, cycling, or automotive industry**
+- 👯 Looking to collaborate on **any project related with business, cycling, or automotive industry**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sscrpntr](https://github.com/sscrpntr)
 
